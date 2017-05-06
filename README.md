@@ -1,7 +1,7 @@
 # beego_push_server
 beego gorilla websocket消息推送功能
 
-# js接受
+# js
 	<script>
 		var socket = new WebSocket("ws://192.168.210.228:8080/ws/join?store_id=12");
 
